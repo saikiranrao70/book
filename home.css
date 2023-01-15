@@ -1,0 +1,390 @@
+body{
+margin: 0;
+padding: 0;
+background-image: linear-gradient(to bottom, #1f066b, #1f066b, #1f066b, #1f066b, #1f066b, #14247e, #043b8f, #00509e, #277eb7, #66aaca, #abd4de, #f3fcfc);
+
+overflow: hidden;
+}
+
+
+#tname2:hover {
+
+
+  width: 140px;
+        height:35px;
+}
+
+#tname3:hover {
+
+
+  width: 140px;
+        height:35px;
+}
+
+#tname4:hover {
+
+
+  width: 140px;
+        height:35px;
+}
+
+
+#tname2{
+display: inline-block;
+       	width: 130px;
+        height:30px;
+        font-size:25px;
+       	background-color:linear-gradient(to right,#0f0c29,#002b80, #003399,#002b80, #24243e);
+       	text-align: center;
+border-radius: 25px;
+color:#ffffff;
+border-style: solid;
+  border-width: 4px;
+border-color: #ffffff;
+margin-left:65%;
+position: relative;
+top:35px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+#tname3{
+display: inline-block;
+       	width: 130px;
+        height:30px;
+        font-size:25px;
+       	background-color:linear-gradient(to right,#0f0c29,#002b80, #003399,#002b80, #24243e);
+       	text-align: center;
+border-radius: 25px;
+color:#ffffff;
+margin-left:2%;
+position: relative;
+top:35px;
+font-family: Arial, Helvetica, sans-serif;
+border-style: solid;
+  border-width: 4px;
+border-color: #ffffff;
+}
+
+#tname4{
+display: inline-block;
+       	width: 130px;
+        height:30px;
+        font-size:25px;
+       	background-color:linear-gradient(to right,#0f0c29,#002b80, #003399,#002b80, #24243e);
+       	text-align: center;
+color:#ffffff; 
+border-radius: 25px;
+margin-left:2%;
+position: relative;
+top:35px;
+font-family: Arial, Helvetica, sans-serif;
+border-style: solid;
+  border-width: 4px;
+border-color: #ffffff;
+
+}
+
+#header{
+height:10%;
+}
+
+#box{
+height:15%;
+background-color:#ffffff;
+width:72%;
+border-radius: 15px;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+margin-left:13%;
+position: relative;
+top:40px;
+}
+
+#box1{
+height:40%;
+width:70%;
+margin-left:7%;
+position:relative;
+top:34px;
+border-radius: 15px;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+
+.button-26 {
+  appearance: button;
+  background-color: #1652F0;
+  border: 1px solid #1652F0;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Graphik,-apple-system,system-ui,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+  font-size: 14px;
+  line-height: 1.15;
+  overflow: visible;
+  padding: 12px 16px;
+  position: relative;
+top:34px;
+margin-left:1%;
+  text-align: center;
+  text-transform: none;
+  transition: all 80ms ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+height:40%;
+width:17%;
+}
+
+button:disabled {
+  opacity: .5;
+}
+
+button:focus {
+  outline: 0;
+}
+
+button:hover {
+  background-color: #0A46E4;
+  border-color: #0A46E4;
+}
+
+button:active {
+  background-color: #0039D7;
+  border-color: #0039D7;
+}
+#bar{
+height:65%;
+background-color:#ffffff;
+width:72%;
+border-radius: 15px;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+margin-left:13%;
+position: relative;
+top:80px;
+}
+
+#bar1{
+height:12%;
+width:55%;
+margin-left:10%;
+position:relative;
+top:64px;
+border-radius: 15px;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+
+#bar2{
+height:12%;
+width:55%;
+margin-left:10%;
+position:relative;
+top:114px;
+border-radius: 15px;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+
+#bar3{
+height:12%;
+width:55%;
+margin-left:10%;
+position:relative;
+top:164px;
+border-radius: 15px;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.button-2 {
+  appearance: button;
+  background-color: #1652F0;
+  border: 1px solid #1652F0;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Graphik,-apple-system,system-ui,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+  font-size: 14px;
+  line-height: 1.15;
+  overflow: visible;
+  padding: 12px 16px;
+  position: relative;
+top:64px;
+margin-left:2%;
+  text-align: center;
+  text-transform: none;
+  transition: all 80ms ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+height:12%;
+width:17%;
+}
+
+.button-3 {
+  appearance: button;
+  background-color: #1652F0;
+  border: 1px solid #1652F0;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Graphik,-apple-system,system-ui,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+  font-size: 14px;
+  line-height: 1.15;
+  overflow: visible;
+  padding: 12px 16px;
+  position: relative;
+top:114px;
+margin-left:2%;
+  text-align: center;
+  text-transform: none;
+  transition: all 80ms ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+height:12%;
+width:17%;
+}
+
+
+.button-4 {
+  appearance: button;
+  background-color: #1652F0;
+  border: 1px solid #1652F0;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Graphik,-apple-system,system-ui,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+  font-size: 14px;
+  line-height: 1.15;
+  overflow: visible;
+  padding: 12px 16px;
+  position: relative;
+top:164px;
+margin-left:2%;
+  text-align: center;
+  text-transform: none;
+  transition: all 80ms ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+height:12%;
+width:17%;
+}
+
+
+hr{
+padding-left:10%;
+
+}
+
+
+#par{
+background-color:#ffffff;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+height:31%;
+width:17%;
+border-radius: 15px;
+position:relative;
+top:50px;
+margin-left:6%;
+}
+
+#par1{
+background-color:#ffffff;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+height:31%;
+width:17%;
+border-radius: 15px;
+position:relative;
+bottom:186px;
+margin-left:29%;
+}
+#par2{
+background-color:#ffffff;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+height:31%;
+width:17%;
+border-radius: 15px;
+position:relative;
+bottom:419px;
+margin-left:52%;
+}
+#par3{
+background-color:#ffffff;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+height:31%;
+width:17%;
+border-radius: 15px;
+position:relative;
+bottom:652px;
+margin-left:75%;
+}
+#par4{
+background-color:#ffffff;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+height:31%;
+width:17%;
+border-radius: 15px;
+position:relative;
+bottom:635px;
+margin-left:6%;
+}
+#par5{
+background-color:#ffffff;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+height:31%;
+width:17%;
+border-radius: 15px;
+position:relative;
+bottom:870px;
+margin-left:29%;
+}
+#par6{
+background-color:#ffffff;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+height:31%;
+width:17%;
+border-radius: 15px;
+position:relative;
+bottom:1105px;
+margin-left:52%;
+}
+#par7{
+background-color:#ffffff;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+height:31%;
+width:17%;
+border-radius: 15px;
+position:relative;
+bottom:1338px;
+margin-left:75%;
+}
+
+p{
+
+margin: 0;
+padding: 0;
+}
+
+#p{
+color:blue;
+text-align: center;
+margin-top:1%;
+}
+#cart{
+color:#ffffff;
+font-family: Arial, Helvetica, sans-serif;
+font-size:70px;
+margin-left:3%;
+margin-top:3%;
+}
