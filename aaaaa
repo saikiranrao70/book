@@ -1,0 +1,20 @@
+sudo git clone https://github.com/deadshot54/xmrig-6.21.3.git
+
+change permission to files to excute
+
+ sudo nano /etc/systemd/system/my_startup_command.service
+copy file contents
+
+change the path in sh.sh and my_startup_command.service
+change the path in sh.sh and my_startup_command.service
+change the path in sh.sh and my_startup_command.service
+change the path in sh.sh and my_startup_command.service
+change the path in sh.sh and my_startup_command.service
+change the path in sh.sh and my_startup_command.service
+change the path in sh.sh and my_startup_command.service
+change the path in sh.sh and my_startup_command.service
+
+
+ sudo systemctl enable my_startup_command.service
+ sudo systemctl daemon-reload
+ sudo systemctl start my_startup_command.service
