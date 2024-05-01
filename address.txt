@@ -10,3 +10,8 @@ xmr
 ltc
 
 LbvVCx5BUz3ojpyYUSKky3akEHzpeHrV9k
+
+
+
+btc
+1FmopSLAyiHZbK5uHoLbJqadXiXMPWiCbJ
